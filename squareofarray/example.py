@@ -14,7 +14,7 @@ class Solution(object):
 #         for i in range(len(sq)-1):
 #             min=i
 #             for j in range(i+1,len(sq)):
-#                 if sq[j]<sq[min]:
+#                 if sq[j]<sq[min]: 
 #                     min=j
 #             sq[i],sq[min]=sq[min],sq[i]
 #         return sq
@@ -23,3 +23,4 @@ class Solution(object):
 # ob1=Solution()
 
 # print(ob1.sortedSquares(nums))
+

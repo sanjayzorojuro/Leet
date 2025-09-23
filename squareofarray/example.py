@@ -2,7 +2,9 @@ class Solution(object):
     def sortedSquares(self, nums):
         return sorted([x**2 for x in nums])
 
-#
+
+        
+#The below one also works perfectly fine but because of submission time complixity it doesnt pass the test can refer for logic.
 # class Solution():
 #     def sortedSquares(self, nums):
 #         sq=[]
@@ -19,4 +21,5 @@ class Solution(object):
 
 # nums=[-2,-3,4,6,7]
 # ob1=Solution()
+
 # print(ob1.sortedSquares(nums))

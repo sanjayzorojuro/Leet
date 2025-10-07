@@ -21,4 +21,5 @@ Output: false
 Explanation: We only consider base 2: 4 = 100 (base 2), which is not palindromic.
 Therefore, we return false.
 
+
  

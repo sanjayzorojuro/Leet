@@ -16,7 +16,7 @@ The test cases are generated such that the answer and all intermediate calculati
 
  
 
-Example 1:
+Example 1: 
 
 Input: ops = ["5","2","C","D","+"]
 Output: 30

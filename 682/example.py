@@ -10,4 +10,4 @@ class Solution(object):
                 x.append(x[-1]+x[-2])
             else:
                 x.append(int(i))
-        return sum(x)
+        return sum(x) 

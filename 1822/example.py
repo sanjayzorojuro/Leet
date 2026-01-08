@@ -7,3 +7,4 @@ class Solution(object):
             elif n < 0:
                 sign *= -1
         return sign
+ 

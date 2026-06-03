@@ -19,7 +19,7 @@ From s[4] = 'c' to s[5] = 'C', there is no change of key as caps lock or shift i
 
 Example 2:
 
-Input: s = "AaAaAaaA"
+Input: s = "AaAaAaaA"  
 Output: 0
 Explanation: There is no change of key since only the letters 'a' and 'A' are pressed which does not require change of key.
  

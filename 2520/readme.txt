@@ -22,7 +22,7 @@ Explanation: 1248 is divisible by all of its digits, hence the answer is 4.
  
 
 Constraints:
-
+ 
 1 <= num <= 109
 num does not contain 0 as one of its digits.
  

@@ -18,7 +18,7 @@ Thus, the maximum number of words in a single sentence comes from the third sent
 Example 2:
 
 Input: sentences = ["please wait", "continue to fight", "continue to win"]
-Output: 3
+Output: 3 
 Explanation: It is possible that multiple sentences contain the same number of words. 
 In this example, the second and third sentences (underlined) have the same number of words.
  

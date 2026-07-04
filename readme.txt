@@ -1,1 +1,1 @@
-Simple leet code problems solved by me.
+Simple leet code problems solved by me in python.
